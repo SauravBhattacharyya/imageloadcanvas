@@ -72,6 +72,7 @@ const App = () => {
 
 export default App;
 
+//This useEffect block is for the Liberate Web App
 // useEffect(()=>{
 //   const loadImage=(image,index)=>{
 //     console.log(image,index)
